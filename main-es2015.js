@@ -3,7 +3,7 @@
 /***/ "./$$_lazy_route_resource lazy recursive":
 /*!******************************************************!*\
   !*** ./$$_lazy_route_resource lazy namespace object ***!
-  \******************************************************/
+  \****************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
